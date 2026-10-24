@@ -2,7 +2,7 @@
 
 **Marketing project portfolio by Md Jahid Hasan**
 
-This collection presents my work across B2B engineering marketing, an independent e-commerce business, and marketing for adult training. These first editions are experience-based project overviews. They explain my responsibilities and relevant materials; they do not claim independently verified campaign results.
+This collection presents my work across B2B engineering marketing, an independent e-commerce business, and marketing for adult training. Innova and E-Learning are experience-based role overviews. ClypChip also has a published case study with source advertising exports and creative examples. Owner-reported sales are distinguished from platform-reported advertising results.
 
 [Profile](https://github.com/assassinjahid) · [Teaching portfolio](https://github.com/assassinjahid/digital-marketing-teaching) · [Marketing toolkit](https://github.com/assassinjahid/marketing-toolkit) · [LinkedIn](https://www.linkedin.com/in/jahid-akash/)
 
@@ -11,7 +11,7 @@ This collection presents my work across B2B engineering marketing, an independen
 | Project | Business context | My contribution |
 | --- | --- | --- |
 | Innova and MEP Engineers Limited | HVAC and fire protection systems | Website management, technical content, marketing coordination, and analytics |
-| ClypChip | Independent tech accessories e-commerce brand | Founder responsibilities across sourcing, social marketing, customer service, and sales |
+| [ClypChip](https://github.com/assassinjahid/marketing-toolkit/blob/main/CLYPCHIP-CASE-STUDY.md) | Independent tech accessories e-commerce brand | Founder responsibilities across sourcing, social marketing, customer service, and sales |
 | E-Learning and Earning Ltd | Adult learning and professional skills | Digital marketing, content, lead generation, and original training materials |
 
 ## Innova and MEP Engineers Limited
@@ -61,9 +61,11 @@ Operating a small business connects marketing decisions with stock, delivery, cu
 
 ### Evidence and measurement
 
-This overview describes the business and my role. It does not report revenue, return on ad spend, customer acquisition cost, or profitability. Those figures need matching order and advertising records before publication.
+[Read the documented ClypChip case study](https://github.com/assassinjahid/marketing-toolkit/blob/main/CLYPCHIP-CASE-STUDY.md), including six original creative compositions, June–September 2024 campaign exports, reporting CSVs and reproducible calculations.
 
-For a future results edition, the evidence should connect advertising dates and spend to valid orders, cancellations, delivery costs, and product margin. Leads or messages alone should not be labelled sales.
+The August–September messaging campaigns recorded 354 conversations started on USD 16.54 spend. The separate August–October sales quantities and product prices are owner-reported and include recurring customers. Conversations are not confirmed purchases. No verified ROAS, customer acquisition cost or net-profit claim is made.
+
+Further sales analysis would require matched orders, cancellations, fulfilment costs and complete advertising records for the sales period.
 
 ## E-Learning and Earning Ltd
 
@@ -98,7 +100,7 @@ This work links marketing communication with learner needs. The teaching portfol
 
 [Explore the teaching catalogue and companion activity](https://github.com/assassinjahid/digital-marketing-teaching).
 
-## How future results editions will be documented
+## How results editions are documented
 
 Each results edition should include:
 
